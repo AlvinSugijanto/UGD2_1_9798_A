@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dropdown_menu1"
+        android:title="Mie kremes"/>
+    <item
+        android:id="@+id/dropdown_menu2"
+        android:title="Oreo"/>
+    <item
+        android:id="@+id/dropdown_menu3"
+        android:title="Wafer Nabati"/>
+
+    <item
+        android:id="@+id/dropdown_menu4"
+        android:title="Taro"/>
+    <item
+        android:id="@+id/dropdown_menu5"
+        android:title="Doritos"/>
+
+</menu>
